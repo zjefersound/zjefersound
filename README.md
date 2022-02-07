@@ -1,4 +1,4 @@
-## Welcome tomy profile! I'm Jeferson 
+## Welcome to my profile! I'm Jeferson 
 - 🍁 I work at Vizpert
 - 🎵 Some people play guitar, I make electronic music
 - 👨‍💻 Love technology
