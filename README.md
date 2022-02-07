@@ -1,7 +1,7 @@
-## Bem vindo(a) ao meu perfil! Eu sou o Jeferson 
-- 🍁 Trabalho na One Immigration
-- 🎵 Tem gente que toca violão eu produzo música eletronica
-- 👨‍💻 Adoro tecnologia
+## Welcome tomy profile! I'm Jeferson 
+- 🍁 I work at Vizpert
+- 🎵 Some people play guitar, I make electronic music
+- 👨‍💻 Love technology
  <div>
   <a href="https://github.com/zjefersound">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zjefersound&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
