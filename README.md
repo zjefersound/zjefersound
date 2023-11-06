@@ -1,5 +1,5 @@
 ## Welcome to my profile! I'm Jeferson 
-- 🏠 I work at Ali Crédito
+- 🏠 I work at Geekie 🧠
 - 🎵 Some people play guitar, I make electronic music
 - 👨‍💻 Love technology
  <div>
