@@ -1,7 +1,27 @@
 ## Welcome to my profile! I'm Jeferson 
-- 🏠 I work at Geekie 🧠
-- 🎵 Some people play guitar, I make electronic music
-- 👨‍💻 Love technology
+
+```typescript
+const jeferson = {
+  worksAt: "Geekie 🧠",
+  hobbies: [
+    "chess",
+    "drawing",
+    "make music",
+  ],
+  isTechLover: true,
+  getAdvice: (about) => {
+    switch(about) {
+      case "life":
+        return "Be grateful for what you have, trust yourself!";
+      case "career":
+        return "Never stop learning! Your time is valuable, don't waste it scrolling on TikTok or ig for hours.";
+      case "badMoments":
+        return "It's okay to be feeling bad sometimes, just don't give up! Things are going to get better soon.";
+    }
+  }
+};
+```
+
  <div>
   <a href="https://github.com/zjefersound">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zjefersound&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
