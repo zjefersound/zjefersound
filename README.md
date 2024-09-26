@@ -8,6 +8,7 @@ const jeferson = {
     "drawing",
     "make music",
   ],
+  studyingSince: "2017-01-01T00:00:00.000Z",
   isTechLover: true,
   getAdvice: (about) => {
     switch(about) {
@@ -22,7 +23,11 @@ const jeferson = {
 };
 ```
 
- <div>
+Relevant project:
+[PT-BR] 2018-2019 [REDE SOCIAL DO INSTITUTO FEDERAL CATARINENSE CAMPUS
+FRAIBURGO](https://publicacoes.ifc.edu.br/index.php/fepexfraiburgo/article/view/594)
+
+<div>
   <a href="https://github.com/zjefersound">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zjefersound&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjefersound&layout=compact&langs_count=16&theme=dracula"/>
