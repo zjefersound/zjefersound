@@ -23,10 +23,6 @@ const jeferson = {
 };
 ```
 
-Relevant project:
-[PT-BR] 2018-2019 [REDE SOCIAL DO INSTITUTO FEDERAL CATARINENSE CAMPUS
-FRAIBURGO](https://publicacoes.ifc.edu.br/index.php/fepexfraiburgo/article/view/594)
-
 <div>
   <a href="https://github.com/zjefersound">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zjefersound&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -47,3 +43,9 @@ FRAIBURGO](https://publicacoes.ifc.edu.br/index.php/fepexfraiburgo/article/view/
   <a href = "mailto: zjefersound@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeferson-santos-moraes-de-souza-81223a192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+#### Articles:
+
+- [REDE SOCIAL DO INSTITUTO FEDERAL CATARINENSE CAMPUS
+FRAIBURGO](https://publicacoes.ifc.edu.br/index.php/fepexfraiburgo/article/view/594) [PT-BR] 2018-2019
