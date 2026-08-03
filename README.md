@@ -1,8 +1,9 @@
 ## Welcome to my profile! I'm Jeferson 
 
+[@JefDeSouza](https://github.com/JefDeSouza)
+
 ```typescript
 const jeferson = {
-  worksAt: "Geekie 🧠",
   hobbies: [
     "chess",
     "drawing",
